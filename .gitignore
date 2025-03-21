@@ -1,3 +1,4 @@
 node_modules
 dist
 constant.ts
+src/secret-key.ts
